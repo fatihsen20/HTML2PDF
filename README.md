@@ -4,6 +4,9 @@
 - The .html files in these folders are selected and converted to .pdf files in order.
 - All the remaining unnecessary files are deleted, leaving only the files with the .pdf extension.
 
+# Where is it Used?
+- E-Archive Invoice
+
 # Requirements for the HTML2PDF to run:
 ## -pdfkit: !pip install pdfkit
 ## -zipfile: !pip install zipfile
